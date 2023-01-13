@@ -1,2 +1,4 @@
 This is the new file created in gitDemo
 This line is adding from br-1 for testing conflicts
+
+This is the changes for testing the revert

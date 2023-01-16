@@ -1,3 +1,5 @@
 This is the new file created in gitDemo
-This is the line added for conflicts
+
+New line added from the br-1 branch
+
 This line is adding from br-1 for testing conflicts
